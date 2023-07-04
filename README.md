@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Network1013
+- 👀 The code I am good in node.js, HTML, and Lua
+- 🌱 I’m currently learning JavaScript
+- :eight_spoked_asterisk: Working on: A batch toolbox for windows.
+- :robot: I am making a discord bot!: https://discord.com/oauth2/authorize?client_id=1108574367631290448&scope=bot%20applications.commands&permissions=10328793279735
+- :moneybag: Wanna donate to me?: $Network1013
