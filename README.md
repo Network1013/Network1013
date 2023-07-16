@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning JavaScript
 - :eight_spoked_asterisk: Working on: A batch toolbox for windows.
 - :robot: I am making a discord bot!: https://shorturl.at/bvRT1
-- :moneybag: Wanna donate to me?: $Network1013
+- :moneybag: Wanna donate to me?: $Network010
